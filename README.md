@@ -41,20 +41,27 @@
 <!--                   ABOUT ME                      -->
 <!-- ─────────────────────────────────────────────── -->
 
-<h2>🧑‍💻 About Me</h2>
+<h2><picture><img src = "https://github.com/MdAmiruddin/MdAmiruddin/blob/main/Assets/about_me.gif" width = 50px></picture>  About Me</h2>
 
-<p>
+<picture>
+  <img align="right"
+       src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDY5bnZ4d3JkcGx4ZjFnZWtwMzFsZW1wbDQ2aXFlZm5pYmJ4c2gzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lptIayuGHV9Utu3iTv/giphy.gif"
+       width="350px"
+       style="margin-left: 25px;">
+</picture>
 
-- 👋 Hi, I’m <strong>Yassine Moumoun</strong>  
-- 🎓 I am currently a university student specializing in <strong>Computer Science and Cybersecurity</strong>  
-- 🛡️ Actively building a strong foundation in cyber defense, software engineering, and AI/ML  
-- 🤖 Exploring Artificial Intelligence and Machine Learning through personal projects  
-- 📚 Constantly improving my skills through research, practice, and hands-on development  
-- 🧠 Particularly interested in cybersecurity fundamentals, network security, system security, and applied ML  
-- 💼 <strong>Currently seeking a 4-month internship in France starting September 2026</strong>  
-- 🔗 Feel free to connect with me through any of my platforms above
-  
-</p>
+<div align="left">
+
+<br>
+
+- 👋 Hi, I'm **Yassine MOUMOUN** from Morocco <picture><img src="https://github.com/yassine674/yassine674/blob/4f4cf0b9d16b729566079568dbf7e662e128b208/morocco.png" width="33px" style="vertical-align:middle; transform:translateY(32px);" alt="Morocco"></picture>
+- 🎓 I’m a university student specializing in **Computer Science & Cybersecurity**  
+- 🛡 Actively building a strong foundation in cyber defense, software engineering, and AI/ML  
+- 🤖 Exploring Artificial Intelligence & Machine Learning through personal projects  
+- 📚 Constantly improving through research, practice, and hands-on development  
+- 🔐 Interested in cybersecurity fundamentals, network & system security, applied ML  
+- 💼 Looking for a **4-month internship in France (September 2026)**  
+</div>
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
