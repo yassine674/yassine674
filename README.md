@@ -24,7 +24,7 @@
 
 | CV | LinkedIn | GitHub | YouTube |
 | --- | --- | --- | --- |
-| [![CV](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireaddotcv&subtitle=Download+CV&size=square)](https://raw.githubusercontent.com/yassine674/yassine674/main/CV_FR_MOUMOUN_Yassine.pdf) | [![LinkedIn](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https://www.linkedin.com/in/yassine-moumoun-869239173/&subtitle=Yassine+Moumoun&size=square)](https://www.linkedin.com/in/yassine-moumoun-869239173/) | [![GitHub](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https://github.com/yassine674&subtitle=yassine674&size=square)](https://github.com/yassine674) | [![YouTube](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https://www.youtube.com/@yassinemoumoun2733&subtitle=@yassinemoumoun2733&size=square)](https://www.youtube.com/@yassinemoumoun2733) |
+| [![CV](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireaddotcv&subtitle=Download+CV+FR&size=square)](https://github.com/yassine674/yassine674/blob/main/CV_FR_MOUMOUN_Yassine%20.pdf) | [![LinkedIn](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https://www.linkedin.com/in/yassine-moumoun-869239173/&subtitle=Yassine+Moumoun&size=square)](https://www.linkedin.com/in/yassine-moumoun-869239173/) | [![GitHub](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https://github.com/yassine674&subtitle=yassine674&size=square)](https://github.com/yassine674) | [![YouTube](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https://www.youtube.com/@yassinemoumoun2733&subtitle=@yassinemoumoun2733&size=square)](https://www.youtube.com/@yassinemoumoun2733) |
 
 | Instagram | Facebook | Twitter | Reddit |
 | --- | --- | --- | --- |
