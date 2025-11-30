@@ -65,7 +65,19 @@
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
+
+## 💼 Looking for an Internship
+## 💼 Looking for an Internship
+
+I am a **Computer Science & Cybersecurity student (Bac+3)**, originally from **CPGE** and now pursuing a **Cycle d’Ingénieur**.  
+I am seeking a **4-month engineering internship (Bac+4)** in **France** between **September 2026 and January 2027**, as part of my academic journey and professional development.  
+I am highly motivated to contribute, learn, and apply my skills in a real-world environment.
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
+
 <br>
+
+<br>
+
 <h3 align="center">Programming Languages</h3>
 <div align="center">
 
@@ -145,4 +157,66 @@
 </table>
 
 </div>
+
+
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> My GitHub Contributions </b>
+
+<img src="https://github.com/MdAmiruddin/MdAmiruddin/blob/main/Assets/gridsnake.svg" alt="snake">
+
+<br>
+
+## 🌐 Socials
+
+<p align="left">
+
+<a href="https://x.com/YassineMoumoun" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
+</a>
+
+<a href="https://www.linkedin.com/in/yassine-moumoun-869239173/" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+
+<a href="https://www.facebook.com/profile.php?id=100012555542823" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
+</a>
+
+<a href="https://www.instagram.com/yassinemoumoun/" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+</a>
+
+<a href="https://www.reddit.com/user/BrightAd483/" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" height="30" width="40" />
+</a>
+
+<a href="https://www.youtube.com/@yassinemoumoun2733" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" />
+</a>
+
+</p>
+
+<br>
+
+## 💼 Looking for an Internship
+
+I am a **Computer Science & Cybersecurity student (Bac+3)**, former **CPGE student** now continuing in a **Cycle d’Ingénieur**.  
+I am currently looking for a **4-month engineering internship (Bac+4)** in **France**, available **between September 2026 and January 2027**.
+
+<br>
+
+## 💰 Support My Work
+
+If you appreciate my projects or find my work helpful, supporting me is always appreciated.  
+It helps me continue learning, building tools, and creating new cybersecurity & AI projects.
+
+<br>
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yassinemoumoun)
+
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/redhacker99)
+
+<br><br>
+
+![](https://visitcount.itsvg.in/api?id=yassine674&icon=2&color=1)
 
