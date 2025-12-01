@@ -24,7 +24,7 @@
 
 | CV | LinkedIn | GitHub | YouTube |
 | --- | --- | --- | --- |
-| [![CV](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireaddotcv&subtitle=Download+CV+FR&size=square)](https://github.com/yassine674/yassine674/blob/main/CV_FR_MOUMOUN_Yassine%20.pdf) | [![LinkedIn](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https://www.linkedin.com/in/yassine-moumoun-869239173/&subtitle=Yassine+Moumoun&size=square)](https://www.linkedin.com/in/yassine-moumoun-869239173/) | [![GitHub](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https://github.com/yassine674&subtitle=yassine674&size=square)](https://github.com/yassine674) | [![YouTube](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https://www.youtube.com/@yassinemoumoun2733&subtitle=@yassinemoumoun2733&size=square)](https://www.youtube.com/@yassinemoumoun2733) |
+| [![CV](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireaddotcv&subtitle=Download+CV+FR&size=square)](https://github.com/yassine674/yassine674/raw/main/CV_FR_MOUMOUN_Yassine%20.pdf) | [![LinkedIn](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https://www.linkedin.com/in/yassine-moumoun-869239173/&subtitle=Yassine+Moumoun&size=square)](https://www.linkedin.com/in/yassine-moumoun-869239173/) | [![GitHub](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https://github.com/yassine674&subtitle=yassine674&size=square)](https://github.com/yassine674) | [![YouTube](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https://www.youtube.com/@yassinemoumoun2733&subtitle=@yassinemoumoun2733&size=square)](https://www.youtube.com/@yassinemoumoun2733) |
 
 | Instagram | Facebook | Twitter | Reddit |
 | --- | --- | --- | --- |
@@ -157,7 +157,30 @@ I am highly motivated to contribute, learn, and apply my skills in a real-world 
 
 </div>
 
+##  🏆 Featured Projects
+#### [Jetson Orin Nano Matrix Multiplication: Power-Performance Analysis](https://github.com/Cre4T3Tiv3/jetson-orin-matmul-analysis)
+**Scientific benchmarking framework exposing power-performance trade-offs in edge AI deployments.**   
+*◊ 1,282 GFLOPS peak (61% efficiency) ◊ 25W sweet spot delivers 90% of MAXN at 88% power ◊ 60 data points across 4 implementations*   
+Features cuBLAS optimization, Tensor Core acceleration, multi-power mode analysis, and automated regression testing.   
+  
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/Cre4T3Tiv3/jetson-orin-matmul-analysis/main/docs/assets/jetson_orin_nano_matmul_power_benchmarks_social_preview_v1.0.0.png" alt="Jetson Orin Nano Power-Performance Benchmarks social preview" width="600"/>
+  </p>
 
+---
+
+#### [AI Agents Reality Check](https://github.com/Cre4T3Tiv3/ai-agents-reality-check)
+**Mathematical benchmark exposing the massive performance gap between real agents and LLM wrappers.**   
+*◊ Rigorous multi-dimensional evaluation ◊ Statistical validation (95% CI, Cohen's h) ◊ Separating theater from real systems*  
+Features stress testing, network resilience, ensemble coordination, and failure analysis with reproducible methodology.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Cre4T3Tiv3/ai-agents-reality-check/main/docs/assets/ai_agents_reality_check_v0.1.0.jpeg" alt="AI Agent Reality Check social preview" width="600"/>
+</p>
+
+---
+
+<br>
 
 ##  My GitHub Contributions 
 
@@ -175,37 +198,20 @@ I am highly motivated to contribute, learn, and apply my skills in a real-world 
      src="https://streak-stats.demolab.com?user=yassine674&theme=highcontrast&hide_border=true&border_radius=5&card_width=800"
 />
 
-<br><br>
-
-<!-- Stats + Languages -->
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=yassine674&count_private=true&show_icons=true&theme=tokyonight"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassine674&langs_count=10&layout=compact&hide=php,scss,css,html,batchfile,gherkin,freemarker,xslt,tsql,ruby"/>
-    </td>
-  </tr>
-</table>
-
-<br>
-
 <!-- Activity Graph -->
-<img 
-     src="https://github-readme-activity-graph.vercel.app/graph?username=yassine674&theme=xcode&hide_border=true"
-/>
-
-<br><br>
-
-
-
-##  My GitHub Contributions 
-<img src="https://github.com/MdAmiruddin/MdAmiruddin/blob/main/Assets/gridsnake.svg" alt="snake">
+<div align="left">
+  <a href="https://github.com/yassine674">
+    <img 
+      src="https://github-readme-activity-graph.vercel.app/graph?username=yassine674&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true" 
+      alt="GitHub Activity Graph"
+      width="100%"
+    />
+  </a>
+</div>
 <br>
 
 
-## 🌐 Socials:
+## 🌐 Socials:     
 
 <p align="left">
 <a href="https://x.com/YassineMoumoun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
@@ -217,7 +223,6 @@ I am highly motivated to contribute, learn, and apply my skills in a real-world 
 <a href="https://www.reddit.com/user/BrightAd483/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" height="30" width="40" /></a>
 </p>
 
-<br>
 
 
 ## 💰 Support My Work
@@ -241,9 +246,9 @@ It helps me continue learning, building tools, and creating new cybersecurity & 
 
 <table>
   <tr>
-    <th align="left">Email (Université)</th>
-    <th align="left">Email (Personnel)</th>
-    <th align="left">WhatsApp</th>
+    <th align="center">Email (Université)</th>
+    <th align="center">Email (Personnel)</th>
+    <th align="center">WhatsApp</th>
   </tr>
 
   <tr>
@@ -271,7 +276,7 @@ It helps me continue learning, building tools, and creating new cybersecurity & 
 <h3>
 <div align="center">
   
-⭐️ From [KenanGain](https://github.com/KenanGain) | Let's innovate together! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px">
+ ⭐ From [Yassine MOUMOUN ](https://github.com/yassine674) — Let's innovate together! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px">
 
 
 </div>
