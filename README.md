@@ -67,7 +67,6 @@
 
 
 ## 💼 Looking for an Internship
-## 💼 Looking for an Internship
 
 I am a **Computer Science & Cybersecurity student (Bac+3)**, originally from **CPGE** and now pursuing a **Cycle d’Ingénieur**.  
 I am seeking a **4-month engineering internship (Bac+4)** in **France** between **September 2026 and January 2027**, as part of my academic journey and professional development.  
@@ -160,50 +159,66 @@ I am highly motivated to contribute, learn, and apply my skills in a real-world 
 
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> My GitHub Contributions </b>
+##  My GitHub Contributions 
 
 <img src="https://github.com/MdAmiruddin/MdAmiruddin/blob/main/Assets/gridsnake.svg" alt="snake">
 
 <br>
 
-## 🌐 Socials
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats
+
+<!-- Streak -->
+<img 
+     width="800"
+     height="220"
+     src="https://streak-stats.demolab.com?user=yassine674&theme=highcontrast&hide_border=true&border_radius=5&card_width=800"
+/>
+
+<br><br>
+
+<!-- Stats + Languages -->
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=yassine674&count_private=true&show_icons=true&theme=tokyonight"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassine674&langs_count=10&layout=compact&hide=php,scss,css,html,batchfile,gherkin,freemarker,xslt,tsql,ruby"/>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- Activity Graph -->
+<img 
+     src="https://github-readme-activity-graph.vercel.app/graph?username=yassine674&theme=xcode&hide_border=true"
+/>
+
+<br><br>
+
+
+
+##  My GitHub Contributions 
+<img src="https://github.com/MdAmiruddin/MdAmiruddin/blob/main/Assets/gridsnake.svg" alt="snake">
+<br>
+
+
+## 🌐 Socials:
 
 <p align="left">
-
-<a href="https://x.com/YassineMoumoun" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
-</a>
-
-<a href="https://www.linkedin.com/in/yassine-moumoun-869239173/" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-
-<a href="https://www.facebook.com/profile.php?id=100012555542823" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
-</a>
-
-<a href="https://www.instagram.com/yassinemoumoun/" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-</a>
-
-<a href="https://www.reddit.com/user/BrightAd483/" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" height="30" width="40" />
-</a>
-
-<a href="https://www.youtube.com/@yassinemoumoun2733" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" />
-</a>
-
+<a href="https://x.com/YassineMoumoun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yassine-moumoun-869239173/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+<a href="https://github.com/yassine674" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100012555542823" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
+<a href="https://www.instagram.com/yassinemoumoun/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@yassinemoumoun2733" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" /></a>
+<a href="https://www.reddit.com/user/BrightAd483/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" height="30" width="40" /></a>
 </p>
 
 <br>
 
-## 💼 Looking for an Internship
-
-I am a **Computer Science & Cybersecurity student (Bac+3)**, former **CPGE student** now continuing in a **Cycle d’Ingénieur**.  
-I am currently looking for a **4-month engineering internship (Bac+4)** in **France**, available **between September 2026 and January 2027**.
-
-<br>
 
 ## 💰 Support My Work
 
@@ -212,11 +227,54 @@ It helps me continue learning, building tools, and creating new cybersecurity & 
 
 <br>
 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yassinemoumoun)
-
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/redhacker99)
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/redhacker99)
 
-<br><br>
+<br>
 
-![](https://visitcount.itsvg.in/api?id=yassine674&icon=2&color=1)
 
+<!-- ======================= -->
+<!--      📫 Let's Connect!   -->
+<!-- ======================= -->
+
+## 📫 Let's Connect!
+
+<table>
+  <tr>
+    <th align="left">Email (Université)</th>
+    <th align="left">Email (Personnel)</th>
+    <th align="left">WhatsApp</th>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <a href="mailto:Yassine.Moumoun@uphf.fr">
+        <img src="https://img.icons8.com/color/96/000000/gmail--v1.png" width="70"><br>
+        Yassine.Moumoun@uphf.fr
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:yassine127mn@gmail.com">
+        <img src="https://img.icons8.com/color/96/000000/gmail--v1.png" width="70"><br>
+        yassine127mn@gmail.com
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://wa.me/33673566905">
+        <img src="https://img.icons8.com/color/96/000000/whatsapp--v1.png" width="70"><br>
+        +33 6 73 56 69 05
+      </a>
+    </td>
+  </tr>
+</table>
+<br>
+<h3>
+<div align="center">
+  
+⭐️ From [KenanGain](https://github.com/KenanGain) | Let's innovate together! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px">
+
+
+</div>
+</h3>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
