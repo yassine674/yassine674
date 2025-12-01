@@ -156,7 +156,9 @@ I am highly motivated to contribute, learn, and apply my skills in a real-world 
 </table>
 
 </div>
+<br>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 ##  🏆 Featured Projects
 #### [Jetson Orin Nano Matrix Multiplication: Power-Performance Analysis](https://github.com/Cre4T3Tiv3/jetson-orin-matmul-analysis)
 **Scientific benchmarking framework exposing power-performance trade-offs in edge AI deployments.**   
