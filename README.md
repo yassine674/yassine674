@@ -232,12 +232,9 @@ Features stress testing, network resilience, ensemble coordination, and failure 
 If you appreciate my projects or find my work helpful, supporting me is always appreciated.  
 It helps me continue learning, building tools, and creating new cybersecurity & AI projects.
 
-<br>
-
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/redhacker99)
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/redhacker99)
-
-<br>
+<br><br>
 
 
 <!-- ======================= -->
@@ -274,7 +271,6 @@ It helps me continue learning, building tools, and creating new cybersecurity & 
     </td>
   </tr>
 </table>
-<br>
 <h3>
 <div align="center">
   
