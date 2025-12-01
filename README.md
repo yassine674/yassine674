@@ -54,7 +54,7 @@
 
 <br>
 
-- 👋 Hi, I'm **Yassine MOUMOUN** from Morocco <picture><img src="https://github.com/yassine674/yassine674/blob/4f4cf0b9d16b729566079568dbf7e662e128b208/morocco.png" width="33px" style="vertical-align:middle; transform:translateY(32px);" alt="Morocco"></picture>
+- 👋 Hi, I'm **Yassine MOUMOUN** from Morocco <picture><img src="https://github.com/yassine674/yassine674/blob/112fa076aeb82ca13948215583acfeab574bb485/assests/morocco.png" width="33px" style="vertical-align:middle; transform:translateY(32px);" alt="Morocco"></picture>
 - 🎓 I’m a university student specializing in **Computer Science & Cybersecurity**  
 - 🛡 Actively building a strong foundation in cyber defense, software engineering, and AI/ML  
 - 🤖 Exploring Artificial Intelligence & Machine Learning through personal projects  
@@ -109,7 +109,7 @@ I am highly motivated to contribute, learn, and apply my skills in a real-world 
 
 <table>
 <tr>
-  <td align="center"><img src="./PinClipart.com_open-source-clip-art_854057.png" alt="OpenCV" width="60"><br>OpenCV</td>
+  <td align="center"><img src="https://github.com/yassine674/yassine674/blob/112fa076aeb82ca13948215583acfeab574bb485/assests/PinClipart.com_open-source-clip-art_854057.png" alt="OpenCV" width="60"><br>OpenCV</td>
   <td align="center"><img src="https://skillicons.dev/icons?i=pytorch" width="60"><br>PyTorch</td>
   <td align="center"><img src="https://raw.githubusercontent.com/pandas-dev/pandas/main/web/pandas/static/img/pandas_mark.svg" width="52" height="60"><br>Pandas</td>
   <td align="center" style="border: none;"><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/Tensorflow.gif" alt="TensorFlow" width="80" height="60" /><br>TensorFlow</td></tr>
@@ -137,7 +137,7 @@ I am highly motivated to contribute, learn, and apply my skills in a real-world 
 <tr>
   <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="55"><br>Linux</td>
   <td align="center"><img src="https://skillicons.dev/icons?i=kali" width="55"><br>Kali Linux</td>
-  <td align="center"><img src="./206-2064380_burp-suite-icon-png-transparent-png.png" alt="Blackbox AI" width="55"><br>BurpSuite</td>
+  <td align="center"><img src="https://github.com/yassine674/yassine674/blob/112fa076aeb82ca13948215583acfeab574bb485/assests/206-2064380_burp-suite-icon-png-transparent-png.png" alt="Blackbox AI" width="55"><br>BurpSuite</td>
   <td align="center"><img src="https://nmap.org/images/nmap-logo-256x256.png" width="55"><br>Nmap</td>
 </tr>
 </table>
@@ -151,7 +151,7 @@ I am highly motivated to contribute, learn, and apply my skills in a real-world 
   <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="55"><br>ChatGPT</td>
   <td align="center"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/claude-ai-icon.png" width="55"><br>Claude</td>
   <td align="center" style="border: none;"><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/Gemini.gif" alt="Gemini" width="62" height="58" /><br>Google Gemini</td>
-  <td align="center"><img src="./Blackbox-AI-1536x864.jpg" alt="Blackbox AI" width="55"><br>Blackbox AI</td>
+  <td align="center"><img src="https://github.com/yassine674/yassine674/blob/112fa076aeb82ca13948215583acfeab574bb485/assests/Blackbox-AI-1536x864.jpg" alt="Blackbox AI" width="55"><br>Blackbox AI</td>
 </tr>
 </table>
 
@@ -159,28 +159,66 @@ I am highly motivated to contribute, learn, and apply my skills in a real-world 
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
-##  🏆 Featured Projects
-#### [Jetson Orin Nano Matrix Multiplication: Power-Performance Analysis](https://github.com/Cre4T3Tiv3/jetson-orin-matmul-analysis)
-**Scientific benchmarking framework exposing power-performance trade-offs in edge AI deployments.**   
-*◊ 1,282 GFLOPS peak (61% efficiency) ◊ 25W sweet spot delivers 90% of MAXN at 88% power ◊ 60 data points across 4 implementations*   
-Features cuBLAS optimization, Tensor Core acceleration, multi-power mode analysis, and automated regression testing.   
-  
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/Cre4T3Tiv3/jetson-orin-matmul-analysis/main/docs/assets/jetson_orin_nano_matmul_power_benchmarks_social_preview_v1.0.0.png" alt="Jetson Orin Nano Power-Performance Benchmarks social preview" width="600"/>
-  </p>
+
+## 🏆 Featured Projects
 
 ---
 
-#### [AI Agents Reality Check](https://github.com/Cre4T3Tiv3/ai-agents-reality-check)
-**Mathematical benchmark exposing the massive performance gap between real agents and LLM wrappers.**   
-*◊ Rigorous multi-dimensional evaluation ◊ Statistical validation (95% CI, Cohen's h) ◊ Separating theater from real systems*  
-Features stress testing, network resilience, ensemble coordination, and failure analysis with reproducible methodology.
+### 🥇 Football Player Tracking Using YOLOv8 (AI & Machine Learning)
+**Real-time player & ball detection using YOLOv8 with supervised training on Roboflow.**  
+*Applied during World Cup matches to demonstrate object tracking, player identification, and ball trajectory extraction from video streams.*  
+Built in **Google Colab**, leveraging **Python, OpenCV, TensorFlow, and Roboflow datasets**.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Cre4T3Tiv3/ai-agents-reality-check/main/docs/assets/ai_agents_reality_check_v0.1.0.jpeg" alt="AI Agent Reality Check social preview" width="600"/>
+  <img src="https://raw.githubusercontent.com/yassine674/football-tracking-yolo/main/docs/assets/preview.png" width="600">
 </p>
 
 ---
+
+### 🥈 Handwritten Digit Recognition (CNN – TensorFlow)
+**Digit classification using a Convolutional Neural Network (CNN) trained on the MNIST dataset.**  
+*Includes convolution, pooling, dense layers, training curves, evaluation metrics, and real-time prediction tests.*  
+Built with **Python, TensorFlow, Pandas, NumPy, Matplotlib**.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yassine674/digit-cnn-recognition/main/docs/assets/preview.png" width="600">
+</p>
+
+---
+
+### ⚙️ Rankine Cycle Optimization — Waste Heat to Green Energy (Python)
+**Thermodynamic simulation of a Rankine cycle to convert residual heat into usable green energy.**  
+*Includes accumulator Ruths optimization, parametric analysis, and performance visualization using Python.*  
+Developed as part of an engineering project combining **thermodynamics and computational modeling**.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yassine674/rankine-vehicle-optimization/main/docs/assets/rankine.jpg" width="600">
+</p>
+
+---
+
+### 🔐 Cybersecurity Server, Firewall & RGPD-Compliant Form (Coming Soon)
+**Full project involving server setup, HTML form implementation, firewall configuration, and GDPR-compliant data management.**  
+(Currently under development — will include logs analysis, permissions hardening, and secure architecture design.)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yassine674/cybersecurity-project/main/docs/assets/comingsoon.png" width="600">
+</p>
+
+---
+
+### 🌱 Hybrid Sidewalk — Piezoelectric + Solar Energy Generation
+**Engineering prototype combining piezoelectric tiles and solar pavers to locally power public lighting.**  
+*Includes design studies, efficiency analysis, performance modeling, and sustainability assessment.*  
+This project focuses on **renewable energy integration and sustainable smart-city engineering**.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yassine674/hybrid-sidewalk/main/docs/assets/piezo-solar.jpg" width="600">
+</p>
+
+---
+
+### 🔧 More cybersecurity projects are currently under development.
 
 <br>
 
