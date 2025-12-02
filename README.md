@@ -162,7 +162,7 @@ I am highly motivated to contribute, learn, and apply my skills in a real-world 
 
 ## 🌟 Featured Projects
 
-### 🔥 [Real-Time Vision Tracking System using YOLO](https://github.com/yassine674/real-time-vision-tracking-yolo)
+### 🎥 [Real-Time Vision Tracking System using YOLO](https://github.com/yassine674/real-time-vision-tracking-yolo)
 
 **Advanced computer-vision system capable of tracking players and the ball in real-time using YOLOv8 and supervised dataset training.**  
 *◊ Optimized object-detection pipeline ◊ Real-time inference ◊ Roboflow dataset fine-tuning ◊ Google Colab training workflow*  
@@ -264,11 +264,7 @@ De nombreux autres projets IA, Cybersécurité, Optimisation et Ingénierie arri
 
 
 <!-- Streak -->
-<img 
-     width="800"
-     height="220"
-     src="https://streak-stats.demolab.com?user=yassine674&theme=highcontrast&hide_border=true&border_radius=5&card_width=800"
-/>
+<img width="800" height="220" src="https://streak-stats.demolab.com?user=yassine674&theme=highcontrast&hide_border=true&border_radius=5&card_width=800"/>
 
 <!-- Activity Graph -->
 <div align="left">
