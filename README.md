@@ -162,8 +162,6 @@ I am highly motivated to contribute, learn, and apply my skills in a real-world 
 
 ## 🌟 Featured Projects
 
----
-
 ### 🔥 [Real-Time Vision Tracking System using YOLO](https://github.com/yassine674/real-time-vision-tracking-yolo)
 
 **Advanced computer-vision system capable of tracking players and the ball in real-time using YOLOv8 and supervised dataset training.**  
@@ -229,6 +227,7 @@ La plateforme est pensée pour fournir un environnement sécurisé intégrant de
 </p>
 
 📄 **Project Explainer PDF (coming soon)**  👉 *Coming soon*
+
 ---
 
 ### 🌱 [Hybrid Eco-Powered Sidewalk Project](https://github.com/yassine674/hybrid-eco-sidewalk)
@@ -262,6 +261,7 @@ De nombreux autres projets IA, Cybersécurité, Optimisation et Ingénierie arri
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats
+
 
 <!-- Streak -->
 <img 
