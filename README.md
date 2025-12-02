@@ -160,65 +160,97 @@ I am highly motivated to contribute, learn, and apply my skills in a real-world 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
-## 🏆 Featured Projects
+## 🌟 Featured Projects
 
 ---
 
-### 🥇 Football Player Tracking Using YOLOv8 (AI & Machine Learning)
-**Real-time player & ball detection using YOLOv8 with supervised training on Roboflow.**  
-*Applied during World Cup matches to demonstrate object tracking, player identification, and ball trajectory extraction from video streams.*  
-Built in **Google Colab**, leveraging **Python, OpenCV, TensorFlow, and Roboflow datasets**.
+### 🔥 [Real-Time Vision Tracking System using YOLO](https://github.com/yassine674/real-time-vision-tracking-yolo)
+
+**Advanced computer-vision system capable of tracking players and the ball in real-time using YOLOv8 and supervised dataset training.**  
+*◊ Optimized object-detection pipeline ◊ Real-time inference ◊ Roboflow dataset fine-tuning ◊ Google Colab training workflow*  
+Le système analyse automatiquement des matchs de football, détecte les déplacements, anticipe les trajectoires, et peut être adapté à tout type d’objet via apprentissage supervisé.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yassine674/football-tracking-yolo/main/docs/assets/preview.png" width="600">
+  <a href="https://github.com/yassine674/real-time-vision-tracking-yolo">
+    <img src="https://raw.githubusercontent.com/yassine674/real-time-vision-tracking-yolo/main/assets/banner.png" width="600">
+  </a>
 </p>
+
+📄 **Project Explainer PDF:**  👉 [Open PDF](https://github.com/yassine674/real-time-vision-tracking-yolo/raw/main/docs/explainer.pdf)
 
 ---
 
-### 🥈 Handwritten Digit Recognition (CNN – TensorFlow)
-**Digit classification using a Convolutional Neural Network (CNN) trained on the MNIST dataset.**  
-*Includes convolution, pooling, dense layers, training curves, evaluation metrics, and real-time prediction tests.*  
-Built with **Python, TensorFlow, Pandas, NumPy, Matplotlib**.
+### 🔢 [Handwritten Numbers Recognition Model using CNN](https://github.com/yassine674/handwritten-cnn)
+
+**Deep-learning model built with TensorFlow, using convolutional layers to classify handwritten digits from the MNIST dataset.**  
+*◊ CNN (Conv + Pooling + Dense) ◊ 98% accuracy ◊ Python, Pandas, TensorFlow*  
+Le modèle apprend à reconnaître des chiffres manuscrits en extrayant des motifs visuels hiérarchiques grâce aux réseaux de neurones convolutifs.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yassine674/digit-cnn-recognition/main/docs/assets/preview.png" width="600">
+  <a href="https://github.com/yassine674/handwritten-cnn">
+    <img src="https://raw.githubusercontent.com/yassine674/handwritten-cnn/main/assets/banner.png" width="600">
+  </a>
 </p>
+
+📄 **Project Explainer PDF:**  👉 [Open PDF](https://github.com/yassine674/handwritten-cnn/raw/main/docs/explainer.pdf)
+
 
 ---
 
-### ⚙️ Rankine Cycle Optimization — Waste Heat to Green Energy (Python)
-**Thermodynamic simulation of a Rankine cycle to convert residual heat into usable green energy.**  
-*Includes accumulator Ruths optimization, parametric analysis, and performance visualization using Python.*  
-Developed as part of an engineering project combining **thermodynamics and computational modeling**.
+### 🔥 [Optimised Heat Conversion to Green Energy using Rankine Cycle](https://github.com/yassine674/green-energy-rankine)
+
+**Python-optimized thermodynamic model converting residual heat into clean energy using an improved Rankine cycle.**  
+*◊ Energy optimization ◊ Thermodynamic simulation ◊ High-pressure modelling ◊ Sustainability-focused engineering*  
+Ce modèle optimise les pressions, rendements et flux thermiques pour convertir la chaleur résiduelle en électricité verte.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yassine674/rankine-vehicle-optimization/main/docs/assets/rankine.jpg" width="600">
+  <a href="https://github.com/yassine674/green-energy-rankine">
+    <img src="https://raw.githubusercontent.com/yassine674/green-energy-rankine/main/assets/banner.png" width="600">
+  </a>
 </p>
+
+📄 **Project Explainer PDF:**  👉 [Open PDF](https://github.com/yassine674/green-energy-rankine/raw/main/docs/explainer.pdf)
+
+
 
 ---
 
-### 🔐 Cybersecurity Server, Firewall & RGPD-Compliant Form (Coming Soon)
-**Full project involving server setup, HTML form implementation, firewall configuration, and GDPR-compliant data management.**  
-(Currently under development — will include logs analysis, permissions hardening, and secure architecture design.)
+### 🔐 [MediConnect — Secure Application Platform](https://github.com/yassine674/mediconnect-secure-app) *(coming soon)*
+
+**Secure web-application platform with user authentication, HTML form processing, firewall rules and GDPR-compliant data protection.**  
+*◊ Full-stack security ◊ Encryption & privacy ◊ Role-based access ◊ Compliance architecture*  
+La plateforme est pensée pour fournir un environnement sécurisé intégrant de bonnes pratiques d’ingénierie et de cybersécurité.
+
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yassine674/cybersecurity-project/main/docs/assets/comingsoon.png" width="600">
+  <a href="https://github.com/yassine674/mediconnect-secure-app">
+    <img src="https://raw.githubusercontent.com/yassine674/mediconnect-secure-app/main/assets/banner.png" width="600">
+  </a>
 </p>
 
+📄 **Project Explainer PDF (coming soon)**  👉 *Coming soon*
 ---
 
-### 🌱 Hybrid Sidewalk — Piezoelectric + Solar Energy Generation
-**Engineering prototype combining piezoelectric tiles and solar pavers to locally power public lighting.**  
-*Includes design studies, efficiency analysis, performance modeling, and sustainability assessment.*  
-This project focuses on **renewable energy integration and sustainable smart-city engineering**.
+### 🌱 [Hybrid Eco-Powered Sidewalk Project](https://github.com/yassine674/hybrid-eco-sidewalk)
+
+**Hybrid energy-harvesting system converting footsteps + sunlight into green electricity using piezoelectric and solar modules.**  
+*◊ Renewable urban energy ◊ Smart lighting ◊ Green engineering ◊ Real-world experimentation*  
+Un concept d’infrastructure intelligente capable d’alimenter l’éclairage urbain grâce à la marche humaine et au soleil.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yassine674/hybrid-sidewalk/main/docs/assets/piezo-solar.jpg" width="600">
+  <a href="https://github.com/yassine674/hybrid-eco-sidewalk">
+    <img src="https://raw.githubusercontent.com/yassine674/hybrid-eco-sidewalk/main/assets/banner.png" width="600">
+  </a>
 </p>
+
+📄 **Project Explainer PDF:**  👉 [Open PDF](https://github.com/yassine674/hybrid-eco-sidewalk/raw/main/docs/explainer.pdf)
+
 
 ---
 
-### 🔧 More cybersecurity projects are currently under development.
+## 🚀 Explore More Projects
+De nombreux autres projets IA, Cybersécurité, Optimisation et Ingénierie arrivent bientôt.  
+### 👉 [**Click here to view all my projects**](https://github.com/yassine674/Projects)
 
 <br>
 
@@ -319,3 +351,8 @@ It helps me continue learning, building tools, and creating new cybersecurity & 
 </h3>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
+
+
+
+
+
