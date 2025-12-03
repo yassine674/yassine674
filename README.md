@@ -313,7 +313,6 @@ It helps me continue learning, building tools, and creating new cybersecurity & 
   <tr>
     <th align="center">Email (Université)</th>
     <th align="center">Email (Personnel)</th>
-    <th align="center">WhatsApp</th>
   </tr>
 
   <tr>
@@ -327,12 +326,6 @@ It helps me continue learning, building tools, and creating new cybersecurity & 
       <a href="mailto:yassine127mn@gmail.com">
         <img src="https://img.icons8.com/color/96/000000/gmail--v1.png" width="70"><br>
         yassine127mn@gmail.com
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://wa.me/33673566905">
-        <img src="https://img.icons8.com/color/96/000000/whatsapp--v1.png" width="70"><br>
-        +33 6 73 56 69 05
       </a>
     </td>
   </tr>
