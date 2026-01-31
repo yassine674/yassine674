@@ -170,7 +170,7 @@ Le système analyse automatiquement des matchs de football, détecte les déplac
 
 <p align="center">
   <a href="https://github.com/yassine674/real-time-vision-tracking-yolo">
-    <img src="https://raw.githubusercontent.com/yassine674/real-time-vision-tracking-yolo/main/assets/banner.png" width="600">
+    <img src="https://user-images.githubusercontent.com/26833433/212094133-6bb8c21c-3d47-41df-a512-81c5931054ae.png" width="100%">
   </a>
 </p>
 
@@ -186,7 +186,7 @@ Le modèle apprend à reconnaître des chiffres manuscrits en extrayant des moti
 
 <p align="center">
   <a href="https://github.com/yassine674/handwritten-cnn">
-    <img src="https://raw.githubusercontent.com/yassine674/handwritten-cnn/main/assets/banner.png" width="600">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/MnistExamples.png" width="100%">
   </a>
 </p>
 
