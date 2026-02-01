@@ -266,6 +266,7 @@ De nombreux autres projets IA, Cybersécurité, Optimisation et Ingénierie arri
 <!-- Streak -->
 <img width="800" height="220" src="https://streak-stats.demolab.com?user=yassine674&theme=highcontrast&hide_border=true&border_radius=5&card_width=800"/>
 
+
 <!-- Activity Graph -->
 <div align="left">
   <a href="https://github.com/yassine674">
@@ -277,6 +278,8 @@ De nombreux autres projets IA, Cybersécurité, Optimisation et Ingénierie arri
   </a>
 </div>
 <br>
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/arabicano.png" alt="Your Image Badge" />
 
 
 ## 🌐 Socials:     
