@@ -160,96 +160,130 @@ I am highly motivated to contribute, learn, and apply my skills in a real-world 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
-## 🌟 Featured Projects
 
-### 🎥 [Real-Time Vision Tracking System using YOLO](https://github.com/yassine674/real-time-vision-tracking-yolo)
+# 🛡️ Cybersecurity & SOC Projects Portfolio
 
-**Advanced computer-vision system capable of tracking players and the ball in real-time using YOLOv8 and supervised dataset training.**  
-*◊ Optimized object-detection pipeline ◊ Real-time inference ◊ Roboflow dataset fine-tuning ◊ Google Colab training workflow*  
-Le système analyse automatiquement des matchs de football, détecte les déplacements, anticipe les trajectoires, et peut être adapté à tout type d’objet via apprentissage supervisé.
-
-<p align="center">
-  <a href="https://github.com/yassine674/real-time-vision-tracking-yolo">
-    <img src="https://user-images.githubusercontent.com/26833433/212094133-6bb8c21c-3d47-41df-a512-81c5931054ae.png" width="100%">
-  </a>
-</p>
-
-📄 **Project Explainer PDF:**  👉 [Open PDF](https://github.com/yassine674/real-time-vision-tracking-yolo/raw/main/docs/explainer.pdf)
+> **Hands-on defensive security labs, SIEM engineering, and incident response simulations**
 
 ---
 
-### 🔢 [Handwritten Numbers Recognition Model using CNN](https://github.com/yassine674/handwritten-cnn)
+## 🎯 Featured SOC & Cybersecurity Projects
 
-**Deep-learning model built with TensorFlow, using convolutional layers to classify handwritten digits from the MNIST dataset.**  
-*◊ CNN (Conv + Pooling + Dense) ◊ 98% accuracy ◊ Python, Pandas, TensorFlow*  
-Le modèle apprend à reconnaître des chiffres manuscrits en extrayant des motifs visuels hiérarchiques grâce aux réseaux de neurones convolutifs.
+### 1. SIEM Home Lab — Wazuh XDR Platform
 
-<p align="center">
-  <a href="https://github.com/yassine674/handwritten-cnn">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/MnistExamples.png" width="100%">
-  </a>
-</p>
+**Real-time threat detection and security monitoring using open-source Wazuh**
 
-📄 **Project Explainer PDF:**  👉 [Open PDF](https://github.com/yassine674/handwritten-cnn/raw/main/docs/explainer.pdf)
+- ✅ Ubuntu Server deployment with Windows agent configuration
+- ✅ Custom detection rules and File Integrity Monitoring (FIM)
+- ✅ Real-time security dashboards and event correlation
+- ✅ Multi-source log collection and analysis
 
+🔗 [**View Project**](https://github.com/yassine674/siem-homelab-wazuh) | 📄 [**Documentation**](https://github.com/yassine674/siem-homelab-wazuh/raw/main/docs/lab-guide.pdf)
 
 ---
 
-### 🔥 [Optimised Heat Conversion to Green Energy using Rankine Cycle](https://github.com/yassine674/green-energy-rankine)
+### 2. Active Directory Security Lab — Splunk Integration
 
-**Python-optimized thermodynamic model converting residual heat into clean energy using an improved Rankine cycle.**  
-*◊ Energy optimization ◊ Thermodynamic simulation ◊ High-pressure modelling ◊ Sustainability-focused engineering*  
-Ce modèle optimise les pressions, rendements et flux thermiques pour convertir la chaleur résiduelle en électricité verte.
+**Enterprise AD environment with advanced threat detection capabilities**
 
-<p align="center">
-  <a href="https://github.com/yassine674/green-energy-rankine">
-    <img src="https://raw.githubusercontent.com/yassine674/green-energy-rankine/main/assets/banner.png" width="600">
-  </a>
-</p>
+- ✅ Multi-OS setup: Windows Server, Kali Linux, Ubuntu
+- ✅ Kerberos authentication monitoring and log correlation
+- ✅ Windows security event analysis with Splunk Enterprise
+- ✅ Behavioral anomaly detection and attack simulation
 
-📄 **Project Explainer PDF:**  👉 [Open PDF](https://github.com/yassine674/green-energy-rankine/raw/main/docs/explainer.pdf)
-
-
+🔗 [**View Project**](https://github.com/yassine674/active-directory-splunk-lab) | 📄 [**Lab Guide**](https://github.com/yassine674/active-directory-splunk-lab/raw/main/docs/ad-lab-guide.pdf)
 
 ---
 
-### 🔐 [MediConnect — Secure Application Platform](https://github.com/yassine674/mediconnect-secure-app) *(coming soon)*
+### 3. SOC Automation — SOAR Workflows
 
-**Secure web-application platform with user authentication, HTML form processing, firewall rules and GDPR-compliant data protection.**  
-*◊ Full-stack security ◊ Encryption & privacy ◊ Role-based access ◊ Compliance architecture*  
-La plateforme est pensée pour fournir un environnement sécurisé intégrant de bonnes pratiques d’ingénierie et de cybersécurité.
+**Automated incident response using The Hive platform**
 
+- ✅ Intelligent playbook automation for alert triage
+- ✅ Threat intelligence enrichment and IoC extraction
+- ✅ Standardized response workflows
+- ✅ Reduced mean time to response (MTTR)
 
-<p align="center">
-  <a href="https://github.com/yassine674/mediconnect-secure-app">
-    <img src="https://raw.githubusercontent.com/yassine674/mediconnect-secure-app/main/assets/banner.png" width="600">
-  </a>
-</p>
-
-📄 **Project Explainer PDF (coming soon)**  👉 *Coming soon*
+🔗 [**View Project**](https://github.com/yassine674/soc-automation-soar) | 📄 [**Playbook Guide**](https://github.com/yassine674/soc-automation-soar/raw/main/docs/soar-playbooks.pdf)
 
 ---
 
-### 🌱 [Hybrid Eco-Powered Sidewalk Project](https://github.com/yassine674/hybrid-eco-sidewalk)
+### 4. SIEM Engineer Training — QRadar & Splunk
 
-**Hybrid energy-harvesting system converting footsteps + sunlight into green electricity using piezoelectric and solar modules.**  
-*◊ Renewable urban energy ◊ Smart lighting ◊ Green engineering ◊ Real-world experimentation*  
-Un concept d’infrastructure intelligente capable d’alimenter l’éclairage urbain grâce à la marche humaine et au soleil.
+**Comprehensive hands-on mastery of two major SIEM platforms**
 
-<p align="center">
-  <a href="https://github.com/yassine674/hybrid-eco-sidewalk">
-    <img src="https://raw.githubusercontent.com/yassine674/hybrid-eco-sidewalk/main/assets/banner.png" width="600">
-  </a>
-</p>
+- ✅ Installation and configuration from scratch
+- ✅ Multi-source log onboarding (firewalls, AD, servers)
+- ✅ Custom correlation rules and detection use cases
+- ✅ Dashboard development and advanced search queries
 
-📄 **Project Explainer PDF:**  👉 [Open PDF](https://github.com/yassine674/hybrid-eco-sidewalk/raw/main/docs/explainer.pdf)
-
+🔗 [**View Project**](https://github.com/yassine674/siem-engineer-pathway) | 📄 [**Training Guide**](https://github.com/yassine674/siem-engineer-pathway/raw/main/docs/siem-training-guide.pdf)
 
 ---
 
-## 🚀 Explore More Projects
-De nombreux autres projets IA, Cybersécurité, Optimisation et Ingénierie arrivent bientôt.  
+### 5. SOC Analyst Simulation — 3-Month Training
+
+**Intensive incident response practice in realistic SOC environment**
+
+- ✅ Real-world alert triage (phishing, malware, intrusions)
+- ✅ Multi-source investigation: EDR, email, threat intelligence
+- ✅ Ticket management and technical documentation
+- ✅ Threat hunting using NIST methodologies
+
+🔗 [**View Project**](https://github.com/yassine674/soc-monitoring-letsdefend) | 📄 [**Case Studies**](https://github.com/yassine674/soc-monitoring-letsdefend/raw/main/docs/incident-reports.pdf)
+
+---
+
+## 💻 Development & AI Projects
+
+### Real-Time Object Tracking — YOLO Computer Vision
+
+**Advanced detection and tracking system using YOLOv8**
+
+- ✅ Real-time inference pipeline optimization
+- ✅ Custom dataset training with Roboflow
+- ✅ Multi-object tracking capabilities
+
+🔗 [**View Project**](https://github.com/yassine674/real-time-vision-tracking-yolo) | 📄 [**Documentation**](https://github.com/yassine674/real-time-vision-tracking-yolo/raw/main/docs/explainer.pdf)
+
+---
+
+### Handwritten Digit Recognition — CNN Deep Learning
+
+**TensorFlow-based classification model (98% accuracy)**
+
+- ✅ Convolutional Neural Network architecture
+- ✅ MNIST dataset training and validation
+- ✅ Model optimization and evaluation
+
+🔗 [**View Project**](https://github.com/yassine674/handwritten-cnn) | 📄 [**Documentation**](https://github.com/yassine674/handwritten-cnn/raw/main/docs/explainer.pdf)
+
+---
+
+### MediConnect — GDPR-Compliant Secure Platform
+
+**Healthcare data platform with enterprise security**
+
+- ✅ TLS 1.3 encryption and multi-factor authentication
+- ✅ CSRF/XSS protection and data pseudonymization
+- ✅ Privacy-by-design architecture
+- ✅ Complete audit logging
+
+🔗 [**View Project**](https://github.com/yassine674/mediconnect-secure-app) | 📄 [**Security Guide**](https://github.com/yassine674/mediconnect-secure-app/raw/main/docs/security-guide.pdf)
+
+---
+
+## 🚀 Coming Soon
+
+**Upcoming Cybersecurity Projects:**
+- 🔍 Threat Hunting with ELK Stack
+- 🦠 Malware Analysis Sandbox Environment
+- 📡 Network Traffic Analysis Lab (Wireshark + Zeek)
+- 🤖 AI-Powered Threat Intelligence Aggregator
+ 
 ### 👉 [**Click here to view all my projects**](https://github.com/yassine674/Projects)
+
+---
 
 <br>
 
@@ -311,6 +345,8 @@ It helps me continue learning, building tools, and creating new cybersecurity & 
 <!-- ======================= -->
 
 ## 📫 Let's Connect!
+
+Interested in cybersecurity, SIEM, SOC operations, or AI projects? Let's collaborate!
 
 <table>
   <tr>
